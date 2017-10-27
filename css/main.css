@@ -22,10 +22,9 @@ header {
   display: inline-block;
   margin: 0;
   position: relative;
-  left: 420px;
+  left: 50%;
   font-family: 'Montserrat', sans-serif;
   background-color: inherit;
-
 }
 
 a {
