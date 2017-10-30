@@ -18,6 +18,6 @@ en clase.
 >![FreelancerWebsite](docs/fullpage.png)
 
 ## Pasos realizados
-> * Se realizó un fork del repositorio dado.
+* Se realizó un fork del repositorio dado.
 * Se clonó el fork en mi máquina.
 * Se utilizaron las herramientas aprendidas en clase.
